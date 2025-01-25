@@ -1,0 +1,2 @@
+# firstrepository
+Git & GitHub Kursu
